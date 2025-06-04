@@ -25,25 +25,25 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "简介", link: "/" },
-      { text: "使用教程", link: "/docs/guide" },
-      { text: "常见问题", link: "/docs/faq" },
-      { text: "机场推荐", link: "/docs/airport" },
+      { text: "简介", link: "/tuberrover/" },
+      { text: "使用教程", link: "/tuberrover/docs/guide" },
+      { text: "常见问题", link: "/tuberrover/docs/faq" },
+      { text: "机场推荐", link: "/tuberrover/docs/airport" },
     ],
 
     sidebar: {
       "/docs/": [
         {
           text: "使用教程",
-          link: "/docs/guide",
+          link: "/tuberrover/docs/guide",
         },
         {
           text: "常见问题",
-          link: "/docs/faq",
+          link: "/tuberrover/docs/faq",
         },
         {
           text: "机场推荐",
-          link: "/docs/airport",
+          link: "/tuberrover/docs/airport",
         },
       ],
     },

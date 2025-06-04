@@ -3,22 +3,22 @@
 layout: home
 
 hero:
-  name: "onlyoffice文档服务中国版"
-  text: "部署简单、即开即用"
-  tagline: 提供在线预览编辑/格式转换等能力，API调用简单快捷，助力您的应用或业务系统更强大
+  name: "土拨鼠视频下载"
+  text: "免费、简单、即开即用"
+  tagline: 支持1000+视频网站，极速下载
   actions:
     - theme: brand
-      text: 在线体验
-      link: 
+      text: 立即下载(Windows)
+      link: https://tuberover.oss-cn-shanghai.aliyuncs.com/auto-updates/tuberover-1.0.0-setup.exe
     - theme: alt
       text: 产品介绍
-      link: /docs/product/summary
+      link: /tuberover/docs/guide
 
 features:
-  - title: 在线预览编辑
-    details: 支持文字/表格/演示/PDF等40+ 文档格式<br>超 1000+ 功能强大的文档 Web SDK<br>超 30+ 文档常规配置项
-  - title: 4大核心优势，推动办公生产力发展
-    details: 全平台格式兼容。<br>多人协作，高可用、高并发。<br>强大的二次开发能力。<br>全平台快速接入。
-  - title: 满足多种业务场景接入需求
-    details: 企业、政务、教育等行业：提供OA/协同办公/知识库/CRM/云盘/公文系统/公证平台/电子档案/稿件审核/智慧课堂/教研备课/作业/校务/证书考试等场景支持
+  - title: Download YouTube Videos Free
+    details: 一键批量下载上千个网站高清视频/音频/字幕/封面
+  - title: 专注下载高清视频
+    details: 专注于下载油管超高清视频，支持一键获取1080P、2K、4K、8K等高分辨率视频。Gihosoft TubeGet还支持从其他1000多个流媒体网站上下载视频：包括Vimeo、Bilibili、Twitch等视频网站，Facebook、Twitter、Instagram等社交媒体，以及Mixcloud、SoundCloud等音乐网站。
+  - title: 支持列表及音频
+    details: 除了下载单个网页视频，还支持批量下载油管/B站等网站播放列表、频道里的全部视频。Youtube等主流视频网站上的双语字幕文件（自带、自动生成、翻译），HDR视频，360°VR全景视频，48/60FPS高帧率视频，受限视频，高清封面，3D视频等都支持保存到本地电脑。另外，这款在线视频下载神器还可以直接将音乐类视频保存为320kbps码率的MP3音频。
 ---
