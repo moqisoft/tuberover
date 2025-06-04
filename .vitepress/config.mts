@@ -25,25 +25,25 @@ export default defineConfig({
     },
 
     nav: [
-      { text: "简介", link: "/tuberrover/" },
-      { text: "使用教程", link: "/tuberrover/docs/guide" },
-      { text: "常见问题", link: "/tuberrover/docs/faq" },
-      { text: "机场推荐", link: "/tuberrover/docs/airport" },
+      { text: "简介", link: "/tuberover/" },
+      { text: "使用教程", link: "/tuberover/docs/guide" },
+      { text: "常见问题", link: "/tuberover/docs/faq" },
+      { text: "机场推荐", link: "/tuberover/docs/airport" },
     ],
 
     sidebar: {
       "/docs/": [
         {
           text: "使用教程",
-          link: "/tuberrover/docs/guide",
+          link: "/tuberover/docs/guide",
         },
         {
           text: "常见问题",
-          link: "/tuberrover/docs/faq",
+          link: "/tuberover/docs/faq",
         },
         {
           text: "机场推荐",
-          link: "/tuberrover/docs/airport",
+          link: "/tuberover/docs/airport",
         },
       ],
     },
