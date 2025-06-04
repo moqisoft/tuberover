@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "onlyoffice文档服务中国版"
-  text: "部署简单、即开即用"
+  text: "部署简单、即开即2用"
   tagline: 提供在线预览编辑/格式转换等能力，API调用简单快捷，助力您的应用或业务系统更强大
   actions:
     - theme: brand
