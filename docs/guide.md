@@ -7,7 +7,7 @@
 
 软件首页右上角 `新建` 按钮，打开如下界面
 
-<img src="/tuberover/images/create.png" alt="新建" width="500" />
+<img src="./images/create.png" alt="新建" width="500" />
 
 按照需求填入网址，设置下载的内容及清晰度等，点击确定创建任务。
 
@@ -29,23 +29,23 @@
 下载视频是，大部分网站是需要登录的（防止你是机器人），否则会下载失败或只能下载最小清晰度的视频。目前软件提供两种方式登录，需要在设置界面内勾选对应方式：
 
 一、勾选使用火狐浏览器，并使用系统安装的 火狐浏览器 登录目标网站
-<img src="/tuberover/images/login.png" alt="使用登录态" width="600" />
+<img src="./images/login.png" alt="使用登录态" width="600" />
 
 
 二、使用软件底部入口打开内置浏览器并登录目标网站
 
-<img src="/tuberover/images/login2.png" alt="使用登录态"  />
+<img src="./images/login2.png" alt="使用登录态"  />
 
 
 #### 下载偏好
 
-<img src="/tuberover/images/download.png" alt="下载偏好" width="600" />
+<img src="./images/download.png" alt="下载偏好" width="600" />
 
 下载偏好用于设置自己对保存目录、清晰度、字幕等的偏好。这些设置在新建任务时依然可以轻松覆盖。
 
 #### 代理设置
 
-<img src="/tuberover/images/proxy.png" alt="代理设置" width="600" />
+<img src="./images/proxy.png" alt="代理设置" width="600" />
 
 代理一般在下载国外视频时是必需的（科学上网）。这里可以使用两种方式：
 - 本机代理软件全局代理，在下载软件内勾选 `使用系统代理`。    
